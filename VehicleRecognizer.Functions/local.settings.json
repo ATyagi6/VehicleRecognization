@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "PredictionKey": "05b759f018d641139dfd83393bdccd3f",
+    "PredictionUrl": "https://centralindia.api.cognitive.microsoft.com/customvision/v3.0/Prediction/ff1c6732-0823-4365-b8c6-9bfe83b371f8/classify/iterations/Iteration3/image",
+    "ContainerName": "vehicles"
+  }
+}
